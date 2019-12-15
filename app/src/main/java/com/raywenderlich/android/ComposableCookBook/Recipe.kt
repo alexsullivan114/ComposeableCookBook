@@ -4,5 +4,4 @@ import androidx.annotation.DrawableRes
 
 data class Recipe(@DrawableRes val imageResource: Int,
                   val title: String,
-                  val ingredients: List<String>,
-                  var favorite: Boolean)
+                  val ingredients: List<String>)
