@@ -1,4 +1,4 @@
-package com.raywenderlich.android.ComposableCookBook
+package com.raywenderlich.android.composableCookBook
 
 import org.junit.Test
 

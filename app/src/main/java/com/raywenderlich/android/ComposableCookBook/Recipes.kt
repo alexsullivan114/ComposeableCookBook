@@ -1,4 +1,4 @@
-package com.raywenderlich.android.ComposableCookBook
+package com.raywenderlich.android.composableCookBook
 
 val defaultRecipes = listOf(
     Recipe(R.drawable.noodles, "Ramen", listOf("Noodles", "Eggs", "Mushrooms", "Carrots", "Soy Sauce")),
